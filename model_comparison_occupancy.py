@@ -1,9 +1,3 @@
-"""
-Yadu Raj Bhageria
-Imperial College London
-Mathematics Department
-CID: 00733164
-"""
 #------------------------------------------------------------------------------#
 import math
 import numpy as np
